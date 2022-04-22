@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Valentin-104/Twitter.git/static/css/main.9b55c02e.css",
+    "main.js": "/Valentin-104/Twitter.git/static/js/main.b524dec5.js",
+    "index.html": "/Valentin-104/Twitter.git/index.html",
+    "main.9b55c02e.css.map": "/Valentin-104/Twitter.git/static/css/main.9b55c02e.css.map",
+    "main.b524dec5.js.map": "/Valentin-104/Twitter.git/static/js/main.b524dec5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b55c02e.css",
+    "static/js/main.b524dec5.js"
+  ]
+}
