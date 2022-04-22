@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Valentin-104/Twitter/static/css/main.9b55c02e.css",
-    "main.js": "/Valentin-104/Twitter/static/js/main.f0c40e63.js",
-    "index.html": "/Valentin-104/Twitter/index.html",
-    "main.9b55c02e.css.map": "/Valentin-104/Twitter/static/css/main.9b55c02e.css.map",
-    "main.f0c40e63.js.map": "/Valentin-104/Twitter/static/js/main.f0c40e63.js.map"
+    "main.css": "/github.io/Twitter/static/css/main.9b55c02e.css",
+    "main.js": "/github.io/Twitter/static/js/main.f9964b78.js",
+    "index.html": "/github.io/Twitter/index.html",
+    "main.9b55c02e.css.map": "/github.io/Twitter/static/css/main.9b55c02e.css.map",
+    "main.f9964b78.js.map": "/github.io/Twitter/static/js/main.f9964b78.js.map"
   },
   "entrypoints": [
     "static/css/main.9b55c02e.css",
-    "static/js/main.f0c40e63.js"
+    "static/js/main.f9964b78.js"
   ]
 }
